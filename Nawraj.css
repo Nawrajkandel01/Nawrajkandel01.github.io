@@ -1,0 +1,47 @@
+.picture{ 
+    border-radius: 50%
+}
+
+.intro{ 
+    background-color:red;
+    display: flex;
+    height: 400px;
+    margin: 15%;
+    background-color: rgb(238, 231, 231);
+    border-radius: 40px;
+}
+#a{
+
+    align-content: center;    
+    padding: 10%;
+
+}
+#b{ 
+    
+    align-content: center;
+    justify-content: center;
+    padding: 10%;
+
+}
+
+.Body-parts{ 
+    background-color: red;
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+    justify-items: center;
+    justify-items: space-around;
+}
+.My-experinces{
+    background-color: red;
+    margin: 15%;
+    height: 600px;
+    background-color: rgb(238, 231, 231);
+    border-radius: 40px;
+}
+.experince-top{
+    justify-content: center;
+    align-content: center;
+    padding: 10%;
+
+}

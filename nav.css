@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Poetsen+One&display=swap');
+*{ 
+    margin: 0;
+    padding: 0;
+}
+body {
+    font-family: "Poetsen One", sans-serif;
+    
+  }
+  
+nav{ 
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 70px;
+    width: 100%;
+   
+}
+
+#My-name{ 
+    font-size: xx-large;
+    align-self: flex-start;
+}
+
+.nav{
+    align-items: center
+ 
+}
+
+a{ 
+    text-decoration: none;
+    color: black;
+}
+.nav-links{
+    display: flex;
+    
+    align-items: center;
+    background-color: red;
+}
